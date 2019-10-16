@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/tool/brush.png</file>
+        <file>icons/tool/cursor.png</file>
+        <file>icons/tool/drag-move.png</file>
+        <file>icons/tool/drag-move-2.png</file>
+        <file>icons/tool/eraser.png</file>
+        <file>icons/tool/magic.png</file>
+        <file>icons/tool/paint.png</file>
+        <file>icons/tool/pencil.png</file>
+        <file>icons/tool/shape.png</file>
+        <file>icons/tool/sip.png</file>
+        <file>icons/tool/t-box.png</file>
+    </qresource>
+</RCC>
